@@ -1,0 +1,7 @@
+leader_board:
+    resource: "@leaderBoardBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

@@ -1,0 +1,12 @@
+leaderBoard_homepage:
+    path:     /
+    defaults: { _controller: leaderBoardBundle:Default:index }
+leaderBoard_deathsmile:
+    path: deathsmiles
+    defaults: { _controller: leaderBoardBundle:Pink:deathsmiles}
+leaderBoard_crimzon_clover:
+    path: crimzon_clover/{type}
+    defaults: {_controller: leaderBoardBundle:NotPink:crimzon_clover,type:typeZ}
+leaderBoard_ikaruga:
+    path: ikaruga
+    defaults: {_controller: leaderBoardBundle:NotPink:ikaruga}

@@ -1,0 +1,4 @@
+
+leaderBoard_mushihimesama:
+    path: /mushihimesama
+    defaults: { _controller: leaderBoardBundle:Pink:mushihimesama }

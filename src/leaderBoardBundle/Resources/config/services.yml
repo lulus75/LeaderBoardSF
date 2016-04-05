@@ -1,0 +1,4 @@
+services:
+#    leader_board.example:
+#        class: leaderBoardBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

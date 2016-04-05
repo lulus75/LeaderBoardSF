@@ -1,0 +1,22 @@
+a {
+    color: pink;
+    text-decoration: none;
+    margin: 25px;
+}
+
+a.hover {
+    background: red;
+}
+
+p {
+    font-size: 3em;
+}
+
+table {
+    margin: 50px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
